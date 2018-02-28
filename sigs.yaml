@@ -692,15 +692,15 @@ sigs:
     - name: repo-infra
       owners:
       - https://raw.githubusercontent.com/kubernetes/repo-infra/master/OWNERS
-  - name: Docs
+  - name: Documentation
     dir: sig-docs
     mission_statement: >
-      Covers documentation, doc processes, and doc publishing for Kubernetes.
+      Creates documentation, doc processes, and doc publishing for Kubernetes. Owns Kubernetes.io content. 
     label: docs
     leads:
-    - name: Devin Donnelly
-      github: devin-donnelly
-      company: Google
+    - name: Zach Corleissen
+      github: zacharysarah
+      company: CNCF
     - name: Jared Bhatti
       github: jaredbhatti
       company: Google
